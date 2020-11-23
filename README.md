@@ -21,14 +21,18 @@ Every loop the memory will set free for the next data.
 - void executePipe(char **commands, int pipeLocation, int count, bool ifPipe, char* fileName, int redirType);
 - void executeRedirection(char **commands, int redirLocation, int redirType, int count);
 
+
 **********How to run**********
 
  ./<app>
+
 
 **********Input**********
 
 basic shell commands.
 
+
 **********Output**********
 
 shell output,and error message if an error occurred.
+
