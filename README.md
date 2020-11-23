@@ -24,7 +24,7 @@ Every loop the memory will set free for the next data.
 
 **********How to run**********
 
- ./<app>
+ ./ \<app\>
 
 
 **********Input**********
